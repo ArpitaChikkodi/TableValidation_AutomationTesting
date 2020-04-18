@@ -23,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -42,8 +42,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="pytest in TableTest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for TableValidationTest.TableValidationTest.test_table_fun10">
+    <configuration name="pytest for TableValidationTest.TableValidationTest.test_table_fun1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="TableValidation_STP_Assignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -55,13 +55,81 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testingfiles/TableTest.py&quot;" />
+      <option name="_new_target" value="&quot;TableValidationTest.TableValidationTest.test_table_fun1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TableValidationTest.TableValidationTest.test_table_fun10" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="TableValidation_STP_Assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testingfiles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TableValidationTest.TableValidationTest.test_table_fun10&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TableValidationTest.TableValidationTest.test_table_fun3" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="TableValidation_STP_Assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testingfiles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TableValidationTest.TableValidationTest.test_table_fun3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TableValidationTest.TableValidationTest.test_table_fun7" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="TableValidation_STP_Assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testingfiles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TableValidationTest.TableValidationTest.test_table_fun7&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in TableValidationTest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="TableValidation_STP_Assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testingfiles" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testingfiles/TableValidationTest.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in TableTest.py" />
+        <item itemvalue="Python tests.pytest for TableValidationTest.TableValidationTest.test_table_fun10" />
+        <item itemvalue="Python tests.pytest for TableValidationTest.TableValidationTest.test_table_fun1" />
+        <item itemvalue="Python tests.pytest for TableValidationTest.TableValidationTest.test_table_fun3" />
+        <item itemvalue="Python tests.pytest for TableValidationTest.TableValidationTest.test_table_fun7" />
+        <item itemvalue="Python tests.pytest in TableValidationTest.py" />
       </list>
     </recent_temporary>
   </component>
@@ -77,6 +145,9 @@
       <updated>1585132601750</updated>
       <workItem from="1585132603344" duration="7688000" />
       <workItem from="1585396979390" duration="45000" />
+      <workItem from="1586998503150" duration="601000" />
+      <workItem from="1587017562349" duration="5776000" />
+      <workItem from="1587069510358" duration="4450000" />
     </task>
     <servers />
   </component>
@@ -88,13 +159,22 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TableValidation_STP_Assignment$pytest_for_TableValidationTest_TableValidationTest_test_table_fun9.coverage" NAME="pytest for TableValidationTest.TableValidationTest.test_table_fun9 Coverage Results" MODIFIED="1587069927476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testingfiles" />
+    <SUITE FILE_PATH="coverage/TableValidation_STP_Assignment$pytest_for_TableValidationTest_TableValidationTest_test_table_fun3.coverage" NAME="pytest for TableValidationTest.TableValidationTest.test_table_fun3 Coverage Results" MODIFIED="1587078765631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testingfiles" />
+    <SUITE FILE_PATH="coverage/TableValidation_STP_Assignment$pytest_for_TableValidationTest_TableValidationTest_test_table_fun7.coverage" NAME="pytest for TableValidationTest.TableValidationTest.test_table_fun7 Coverage Results" MODIFIED="1587078682566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testingfiles" />
+    <SUITE FILE_PATH="coverage/TableValidation_STP_Assignment$pytest_for_TableValidationTest_TableValidationTest_test_table_fun8.coverage" NAME="pytest for TableValidationTest.TableValidationTest.test_table_fun8 Coverage Results" MODIFIED="1587025936573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testingfiles" />
+    <SUITE FILE_PATH="coverage/TableValidation_STP_Assignment$pytest_for_TableValidationTest_TableValidationTest_test_table_fun1.coverage" NAME="pytest for TableValidationTest.TableValidationTest.test_table_fun1 Coverage Results" MODIFIED="1587078813880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testingfiles" />
     <SUITE FILE_PATH="coverage/TableValidation_STP_Assignment$pytest_in_TableTest_py.coverage" NAME="pytest in TableTest.py Coverage Results" MODIFIED="1585142907024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testingfiles" />
+    <SUITE FILE_PATH="coverage/TableValidation_STP_Assignment$pytest_in_TableValidationTest_py.coverage" NAME="pytest in TableValidationTest.py Coverage Results" MODIFIED="1587070206306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testingfiles" />
+    <SUITE FILE_PATH="coverage/TableValidation_STP_Assignment$pytest_for_TableValidationTest_TableValidationTest_test_table_fun10.coverage" NAME="pytest for TableValidationTest.TableValidationTest.test_table_fun10 Coverage Results" MODIFIED="1587079097025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testingfiles" />
   </component>
 </project>

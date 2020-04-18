@@ -23,7 +23,7 @@ class TableTest(unittest.TestCase):
     #     print("Result found!")
     #     time.sleep(2)
     #
-    # # checking for invalid value(which is not found)
+    # # checking for invalid value(which is not found) in table 1
     # def test_table_fun2(self):
     #     self.driver.get("https://www.seleniumeasy.com/test/table-search-filter-demo.html")
     #     searchbar = self.driver.find_element_by_xpath('//*[@id="task-table-filter"]')
@@ -53,7 +53,7 @@ class TableTest(unittest.TestCase):
     #     print("Valid username!")
     #     time.sleep(2)
 
-    # # Checking for invalid username
+    # # Checking for invalid username in table2
     # def test_table_fun4(self):
     #     self.driver.get("https://www.seleniumeasy.com/test/table-search-filter-demo.html")
     #     filterbtn = self.driver.find_element_by_xpath('/html/body/div[2]/div/div[2]/div[2]/div/div/div/button')
@@ -70,7 +70,7 @@ class TableTest(unittest.TestCase):
     #     print("Invalid username!")
     #     time.sleep(2)
     #
-    # # Checking for valid Firstname
+    # # Checking for valid Firstname in table2
     # def test_table_fun5(self):
     #     self.driver.get("https://www.seleniumeasy.com/test/table-search-filter-demo.html")
     #     filterbtn = self.driver.find_element_by_xpath('/html/body/div[2]/div/div[2]/div[2]/div/div/div/button')
@@ -104,7 +104,7 @@ class TableTest(unittest.TestCase):
     #     print("Invalid firstname!")
     #     time.sleep(2)
     #
-    # # Checking for valid lastname
+    # # Checking for valid lastname in table2
     # def test_table_fun7(self):
     #     self.driver.get("https://www.seleniumeasy.com/test/table-search-filter-demo.html")
     #     filterbtn = self.driver.find_element_by_xpath('/html/body/div[2]/div/div[2]/div[2]/div/div/div/button')
@@ -138,7 +138,7 @@ class TableTest(unittest.TestCase):
     #     print("Invalid lastname!")
     #     time.sleep(2)
 
-    # Checking for valid number
+    # Checking for valid number in table2
     def test_table_fun9(self):
         self.driver.get("https://www.seleniumeasy.com/test/table-search-filter-demo.html")
         filterbtn = self.driver.find_element_by_xpath('/html/body/div[2]/div/div[2]/div[2]/div/div/div/button')
@@ -155,7 +155,7 @@ class TableTest(unittest.TestCase):
         print("Valid Number! Result foumd!")
         time.sleep(2)
 
-    # Checking for invalid number(<1 or >5 or alphabet)
+    # Checking for invalid number(<1 or >5 or alphabet) in table2
     def test_table_fun10(self):
         self.driver.get("https://www.seleniumeasy.com/test/table-search-filter-demo.html")
         filterbtn = self.driver.find_element_by_xpath('/html/body/div[2]/div/div[2]/div[2]/div/div/div/button')
